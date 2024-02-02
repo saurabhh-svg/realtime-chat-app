@@ -22,7 +22,5 @@ About ->
 
 
 
-![image](https://github.com/saurabhh-svg/realtime-chat-app/assets/82569167/935ffd56-c5dd-445d-8ec7-853bef5369db)
-
 
 
